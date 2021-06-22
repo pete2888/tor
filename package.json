@@ -1,0 +1,19 @@
+{
+  "name": "mik09",
+  "version": "1.0.0",
+  "repository": "",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "description": "",
+  "main": "b.js",
+  "scripts": {
+    "start": "node b.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "ws": "^7.3.0"
+  }
+}
